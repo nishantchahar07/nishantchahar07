@@ -41,7 +41,7 @@
 |--------|-------------|------------|
 | **[DHATRI](https://github.com/your-username/healthcare-platform)** | Full-stack MERN app for managing doctors, labs, appointments, and health records | React, Node.js, Express, MongoDB, Prisma, TypeScript |
 | **[AUTH_JUNCTION](https://github.com/your-username/expense-tracker)** | Track your daily expenses visually and efficiently | React, Context API, Tailwind CSS |
-| **[BAATCHAT](https://github.com/your-username/bookstore-app)** | CRUD web app to manage and search books | MERN Stack |
+| **[BAATCHAT]([https://github.com/nishantchahar07/Baatchat.git])** | CRUD web app to manage and search books | MERN Stack |
 | **[CODESHALA](https://github.com/nishantchahar07/codeshala.git)** | Real-time weather updates using OpenWeather API | React, Express , Mongodb , Cloudinary |
 
 ---

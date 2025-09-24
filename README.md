@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Nishant </h1>
-<h3 align="center">🚀 Full-Stack Developer | Turning Ideas into Code 🌌</h3>
+<h3 align="center"> Full-Stack Developer | Turning Ideas into Code </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Tech Stack  
+###  Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)

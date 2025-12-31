@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me  
 
-- 🔭 Currently working on: `Healthcare SaaS Platform`  
-- 🌱 Exploring: `MERN Stack` | `TypeScript` | `Prisma` | `Next.js`  
+- 🔭 Currently working with: `Divuzl Digital Solutions Pvt Ltd.`  
+- 🌱 Exploring: `Docker` | `Automation` | `GenAI` | `CICD`  
 - 💬 Ask me about: `Full-Stack Development`, `React`, `Node.js`, `APIs`, `Database Design`  
 - ⚡ Fun fact: I call bugs *“surprise features”* 🐞✨  
 
